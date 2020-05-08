@@ -1,4 +1,4 @@
-# Ruby Koans (yurids solution)
+# Ruby Koans (yds12 solution)
 
 My solution to the [Ruby Koans][1] tutorial.
 
